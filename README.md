@@ -1,8 +1,10 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicativo o Secret-Word é um jogo da forca simples e objetivo.
 
-Currently, two official plugins are available:
+1 - Clique em jogar
+2 - Tente adivinhar as letras que formam as palavras
+3 - Utilize as dicas que indicam as categorias das palavras
+4 - Ao acertar a palavra, uma nova palavra será gerada e será acrescentada uma pontuação, resetando a quantidade de tentativas. 
+5 - Quando a quantidade de tentativas chegar a zero o jogador perde.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
